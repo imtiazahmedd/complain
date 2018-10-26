@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "164114551035",
+    "firebase_url": "https://complaintcellpechs-valancia.firebaseio.com",
+    "project_id": "complaintcellpechs-valancia",
+    "storage_bucket": "complaintcellpechs-valancia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164114551035:android:36734abec6ce847d",
+        "android_client_info": {
+          "package_name": "com.complaintcellpechsvalancia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164114551035-ue8h6b6j7v8nvleokar5dq7j8hj0i3b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.complaintcellpechsvalancia",
+            "certificate_hash": "f39fea9da6b80a4038e43cf6219c50de14e4182a"
+          }
+        },
+        {
+          "client_id": "164114551035-7vbg6hrlprmeg62je4ehbmge7ug643g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.complaintcellpechsvalancia",
+            "certificate_hash": "e68d773d9ca8115da5458fe09bc6893495fe0eaa"
+          }
+        },
+        {
+          "client_id": "164114551035-6p061sfa764clor0jr5trtn72ttj55n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOH_mtzZKE2wEvLdALcoCd8f6bHF3L_0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164114551035-6p061sfa764clor0jr5trtn72ttj55n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
